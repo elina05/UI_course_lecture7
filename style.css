@@ -1,0 +1,88 @@
+
+body{
+    display: flex;
+    align-items: center;
+}
+
+h5{
+    font-family: 'Indie Flower', cursive;
+    color: red;
+}
+
+
+
+.pricing{
+    padding: 10px 50px 10px 10px;
+    margin: 10px 50px 10px 10px;
+    
+}
+
+.silver{
+    padding: 10px 50px 10px 10px;
+    margin: 10px 50px 10px 10px;
+    
+   
+}
+
+.golden{
+    padding: 10px 50px 10px 10px;
+    margin: 10px 50px 10px 10px;
+
+}
+
+
+/* circle */
+.white{
+    margin: -100px 0px 30px 0px;
+    padding: -100px 0px 70px 0px;
+}
+
+.circle-gr{
+    margin: 20px 0px -4px 0px;
+}
+
+.circle-red{
+    margin: 20px 0px -4px 0px;
+}
+/* circle */
+
+
+
+.dolor{
+    margin: -93px 0px 70px 37px;
+}
+
+.tick-gr{
+    color: mediumseagreen;
+    padding: 0px 7px 0px 0px;
+}
+
+.tick-red{
+    color: red;
+    padding: 0px 7px 0px 0px;
+}
+
+
+
+/* button */
+.green{
+    padding: 7px 10px ;
+    margin-top: 20px;
+    color: #000;
+    background-color: mediumseagreen;
+    border-radius: 22px 0px;
+    border-color: mediumseagreen;
+}
+
+.red{
+    padding: 7px 10px ;
+    margin-top: 20px;
+    color: #fff;
+    background-color: red;
+    border-radius: 22px 0px;
+    border-color: red;
+}
+/* button */
+
+
+   
